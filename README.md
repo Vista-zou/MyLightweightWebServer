@@ -10,7 +10,7 @@ sudo chmod 600 post.html
 
 sudo chmod +X post.cgi
 
-![](./image/1.png)
+![image](https://user-images.githubusercontent.com/74163396/110725577-ca6cf700-8252-11eb-96af-cdb60cb9442e.png)
 
 
 
@@ -28,17 +28,18 @@ sudo chmod +X post.cgi
 
 #### 3、整体过程图
 
-![](./image/2.png)
+![image](https://user-images.githubusercontent.com/74163396/110725704-fe481c80-8252-11eb-8824-25fce31407ca.png)
 
-![](./image/3.png)
 
-![](./image/4.png)
+![image](https://user-images.githubusercontent.com/74163396/110725757-128c1980-8253-11eb-9547-3ea67aeddef6.png)
 
-![](./image/5.png)
+
+![image](https://user-images.githubusercontent.com/74163396/110725785-20da3580-8253-11eb-941b-7913d35fc006.png)
+
 
 #### 4、整体框架图
 
-![](./image/myhttp.png)
+![image](https://user-images.githubusercontent.com/74163396/110725836-39e2e680-8253-11eb-824f-23db267cc667.png)
 
 #### 5、参考
 
